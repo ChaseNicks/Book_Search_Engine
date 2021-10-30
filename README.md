@@ -2,19 +2,19 @@
 
 # Table of Contents
 
-  🔎 [Description](https://github.com/ChaseNicks/Workout_Tracker#Description)
+  🔎 [Description](https://github.com/ChaseNicks/Book_Search_Engine#Description)
   
   
-  🔎 [Licenses](https://github.com/ChaseNicks/Workout_Tracker#Description)
+  🔎 [Licenses](https://github.com/ChaseNicks/Book_Search_Engine#Description)
 
 
-  🔎 [Installation Intructions](https://github.com/ChaseNicks/Workout_Tracker#Installation-Instructions) 
+  🔎 [Installation Intructions](https://github.com/ChaseNicks/Book_Search_Engine#Installation-Instructions) 
 
 
-  🔎 [Screenshots](https://github.com/ChaseNicks/Workout_Tracker#Screenshots)
+  🔎 [Screenshots](https://github.com/ChaseNicks/Book_Search_Engine#Screenshots)
 
 
-  🔎 [Questions](https://github.com/ChaseNicks/Workout_Tracker#Questions)
+  🔎 [Questions](https://github.com/ChaseNicks/Book_Search_Engine#Questions)
 
 # Description
 
@@ -26,13 +26,14 @@
 # Technologies
 
     * JavaScript
-    * NoSQL
     * MongoDB
     * MongoDB Atlas
     * Express.js
     * Heroku
+    * Apollo Server
+    * JWT
     * Node.js
-    * Graphql
+    * GraphQL
     * Bcrypt
     * React.js
     * Bootstrap
@@ -46,7 +47,8 @@
 
 # Screenshots
 
-
+ ![Screenshot1](./imgs/ss1.png)
+ ![Screenshot2](./imgs/ss2.png)
 
 # Questions
 
